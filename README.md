@@ -92,7 +92,7 @@ df.boxplot()
 
 
     
-![png](wide_and_deep_nn_files/wide_and_deep_nn_5_2.png)
+![png](pic/wide_and_deep_nn_5_2.png)
     
 
 
@@ -216,7 +216,7 @@ df.boxplot()
 
 
     
-![png](wide_and_deep_nn_files/wide_and_deep_nn_7_1.png)
+![png](pic/wide_and_deep_nn_7_1.png)
     
 
 
@@ -478,7 +478,7 @@ pd.DataFrame(history.history).plot()
 
 
     
-![png](wide_and_deep_nn_files/wide_and_deep_nn_21_1.png)
+![png](pic/wide_and_deep_nn_21_1.png)
     
 
 
