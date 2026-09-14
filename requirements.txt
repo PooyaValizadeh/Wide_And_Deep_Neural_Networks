@@ -5,3 +5,4 @@ scikit-learn
 tensorflow
 keras
 scikeras
+keras-tuner
